@@ -30,6 +30,10 @@ a{
     position: relative;
 }
 
+i:hover{
+    opacity: 0.9;
+}
+
 .link__hover-effect:after{
     content: "";
     position: absolute;
@@ -88,6 +92,7 @@ section:nth-child(even){
     align-items: center;
     justify-content: center;
     margin-top: 15px;
+    animation: fade-up 650ms 1000ms backwards ease;
   }
   
   .main-btn {
@@ -207,6 +212,19 @@ nav{
     margin-bottom: 2%;
     transition: all 400ms ease;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16);
+    animation: animate-foto-perfil 800ms 200ms backwards ease;
+}
+
+@keyframes animate-foto-perfil{
+    0%{
+        transform: scale(0);
+    }
+    80%{
+        transform: scale(1.1);
+    }
+    100%{
+        transform: scale(1);
+    }
 }
 
 .sobre-mim__picture{
@@ -215,23 +233,26 @@ nav{
 }
 
 /* HOVER EFFECT*/
-.sobre-mim__picture:hover{
+.sobre-mim__picture:hover {
     transform: scale(1.2);
 }
 
 .sobre-mim__foto--mask:hover{
     transform: scale(1.2);
     box-shadow: 4px 0 16px rgba(0, 0, 0, 0.16);
+    
 }
 /* END HOVER EFFECT*/
 
 .sobre-mim__info--titulo{
     margin-bottom: 16px;
+    animation: fade-up 650ms 400ms backwards ease;
 }
 
 .sobre-mim__info--para{
     font-size: 20px;
     margin-bottom: 28px;
+    animation: fade-up 650ms 600ms backwards ease;
 }
 
 .sobre-mim__link{
@@ -239,6 +260,20 @@ nav{
     color: #242424;
     text-decoration: none;
     padding: 0 10px;
+}
+.sobre-mim__links{
+    animation: fade-up 650ms 800ms backwards ease;
+}
+
+@keyframes fade-up{
+    0%{
+        opacity: 0;
+        transform: translateY(40px);
+    }
+    100%{
+        opacity: 1;
+        transform: translateY(0);
+    }
 }
 
 .sobre-mim__link:hover{
@@ -254,6 +289,32 @@ nav{
 
 .sobre-mim__img{
     width: 100%;
+    animation: fade-in 1200ms 1400ms backwards ease;
+}
+
+@keyframes fade-in{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+.wave{
+    display: inline-block;
+    animation: rotate 500ms infinite ease-in-out;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(30deg);
+    }
+    100%{
+        transform: rotate(0deg);
+    }
 }
 
 
@@ -543,19 +604,18 @@ footer{
     
 }
 .footer__btn{
-    color: #fff;
-    background-color: #640b61;
+    background-color: #ff8cd7;
+    color: #000000;
     padding: 8px 20px;
     border: transparent;
     border-radius: 20px;
     cursor: pointer;
+    transition: all 700ms ease;
 }
 .footer__btn:hover{
-    background-color: #ff8cd7;
-    color: #000000;
+    color: #fff;
+    background-color: #640b61;
 }
-
-
 
 
 @media (max-width: 768px) {
