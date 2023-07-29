@@ -5,6 +5,10 @@ Bem-vindo(a) ao meu repositório de portfólio de programação! Este espaço é
 ![Captura de tela portfolio](https://github.com/emilyfas/portfolio/assets/115494759/6df1e60f-8a42-4397-8afc-b1e595925952)
 
 
+## Acesse o Portfolio aqui
+
+[https://emilyfas.github.io/portfolio/](https://emilyfas.github.io/portfolio/)
+
 ## Sobre mim
 
 Meu nome é Emilly Fernandes e sou uma amante da tecnologia e desenvolvimento de software, sempre em busca de aprender novas habilidades e aprimorar as existentes. Meu objetivo é criar soluções inovadoras e práticas que possam fazer a diferença na vida das pessoas e tornar o mundo digital um lugar melhor.
