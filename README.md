@@ -17,11 +17,11 @@ Meu nome é Emilly Fernandes e sou uma amante da tecnologia e desenvolvimento de
 
 Aqui estão alguns dos projetos que você encontrará neste repositório:
 
-### 1. [Mario Game](https://github.com/emilyfas/mario-game.git)
-_No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar obstáculos que aparecem infinitas vezes na tela. O jogador precisa clicar na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos. Caso o Mario colida com um obstáculo, o jogo é encerrado._
+### 1. [Jogo da Forca em Java](https://github.com/emilyfas/jogo-da-forca-java)
+_O projeto "Jogo da Forca" em Java é uma implementação simples do clássico jogo de palavras, onde o jogador deve adivinhar uma palavra secreta, letra por letra, antes de esgotar todas as suas tentativas. O jogo foi desenvolvido em Java, oferecendo uma experiência interativa em que o jogador pode inserir suas suposições e receber feedbacks sobre o progresso do jogo._
 
-### 2. [Nome do Projeto 2](link-para-o-projeto-2)
-_Descrição breve do projeto 2._
+### 2. [Mario Game em JavaScript](https://github.com/emilyfas/mario-game)
+_No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar obstáculos que aparecem infinitas vezes na tela. O jogador precisa clicar na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos. Caso o Mario colida com um obstáculo, o jogo é encerrado._
 
 ### 3. [Nome do Projeto 3](link-para-o-projeto-3)
 _Descrição breve do projeto 3._
