@@ -715,4 +715,17 @@ footer{
         font-size: 15px;
       }
 }
+
+@media (max-width: 360px){
+
+    .projeto__descricao--titulo{
+        font-size: 15px;
+    }
+    .projeto__descricao--subtitulo{
+        font-size: 10px;
+    } 
+    .projeto__descricao--link{
+        font-size: 15px;
+    }
+}
   
