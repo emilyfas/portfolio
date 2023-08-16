@@ -23,8 +23,8 @@ _O projeto "Jogo da Forca" em Java é uma implementação simples do clássico j
 ### 2. [Mario Game em JavaScript](https://github.com/emilyfas/mario-game)
 _No Jogo do Mario, o objetivo é ajudar o personagem principal, Mario, a evitar obstáculos que aparecem infinitas vezes na tela. O jogador precisa clicar na barra de espaço do teclado para fazer o Mario pular e evitar colidir com os obstáculos. Caso o Mario colida com um obstáculo, o jogo é encerrado._
 
-### 3. [Nome do Projeto 3](link-para-o-projeto-3)
-_Descrição breve do projeto 3._
+### 3. [The Office Survival](https://github.com/emilyfas/The-Office-Survival)
+_O objetivo principal do site é desvendar a identidade do famoso "Scranton Strangler" da serie "The Office". Ao clicar em cards com fotos dos personagens da série, uma mensagem é exibida indicando se o personagem é o Scranton Strangler ou não. Além disso, o site apresenta um vídeo com uma cena icônica envolvendo o personagem selecionado._
 
 ## Como contribuir
 
