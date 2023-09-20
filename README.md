@@ -28,7 +28,7 @@ _O objetivo principal do site é desvendar a identidade do famoso "Scranton Stra
 
 ## Como contribuir
 
-Se você também é apaixonado por programação e deseja contribuir com algum projeto, fique à vontade para fazer um fork deste repositório, realizar suas modificações e enviar um pull request. Ficarei feliz em revisar e discutir suas contribuições.
+Se você também é apaixonado por programação e deseja contribuir com algum projeto deste portfólio, fique à vontade para fazer um fork do repositório projeto que deseja contribuir, realizar suas modificações e enviar um pull request. Ficarei feliz em revisar e discutir suas contribuições.
 
 ## Contato
 
