@@ -1,0 +1,43 @@
+
+/*  NAV BAR */
+
+nav{
+    height: 100px;
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 12px;
+}
+
+.nav__link--lista{
+    display: flex;
+}
+
+.nav__link--anchor{
+    margin: 0 12px;
+    color: #242424;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.nav__link--anchor-primary{
+    background-color: #C51788;
+    padding: 8px 20px;
+    border-radius: 50px;
+    color: #fff;
+    transition: all 300ms ease;
+}
+
+.nav__link--anchor-primary:hover{
+    background-color: #781474;
+}
+
+.logo__pessoal{
+    font-size: 24px;
+    font-weight: bold;
+    color: #C51788;
+    margin: 0 12px;
+}

@@ -1,0 +1,112 @@
+
+
+@media (max-width: 768px) {
+    nav{
+        height: 68px;
+    }
+    
+    h1{
+        font-size: 28px;
+    }
+    .sobre-mim__info--para{
+        font-size: 18px;
+        padding: 0 30px;
+    }
+
+    .linguagem{
+        width: calc(100% / 3);
+    }
+
+    .projeto__descricao--para{
+        font-size: 14px;
+    }
+
+    .projeto__descricao{
+        left: 30px;
+        padding-right: 35px;
+    }
+    
+    .right-contact{
+        padding-top: 30px;
+    }
+    .left-contact {
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 490px){
+    .nav__link:not(:last-child){
+        display: none;
+    }
+
+    .sobre-mim__info--para{
+        padding: 0 5px;
+    }
+
+    .linguagem{
+        width: calc(100% / 2);
+    }
+
+    .linguagem__img--container{
+        padding: 20px 10px;
+    }
+
+    .projeto__descricao--para{
+        display: none;
+    }
+
+    .projeto__descricao--subtitulo{
+        margin: 10px 0;
+    }
+
+    .left-contact {
+        min-width: 250px;
+        max-width: 500px;
+      }
+
+      .left-contact h4 {
+        margin-top: 1rem;
+        font-size: 1.5rem;
+        text-transform: uppercase;
+      }
+
+    .contact-info{
+        font-size: 14px;
+    }
+
+    .contact-info p{
+        font-size: 14px;
+    }
+
+    .contact-item .icon i {
+        font-size: 15px;
+        padding-left: 5px;
+      }
+
+    .right-contact {
+        min-width: 250px;
+        max-width: 500px;
+      }
+
+    .contact-icon a{
+        height: 30px;
+        width: 30px;
+    }
+
+    .contact-icon a i {
+        font-size: 15px;
+      }
+}
+
+@media (max-width: 360px){
+
+    .projeto__descricao--titulo{
+        font-size: 15px;
+    }
+    .projeto__descricao--subtitulo{
+        font-size: 10px;
+    } 
+    .projeto__descricao--link{
+        font-size: 15px;
+    }
+}
