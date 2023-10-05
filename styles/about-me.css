@@ -21,7 +21,7 @@
     text-align: center;
 }
 
-.sobre-mim__foto--mask{
+ .sobre-mim__foto--mask{
     width: 130px;
     height: 130px;
     border-radius: 50%;
@@ -29,9 +29,8 @@
     margin-bottom: 2%;
     transition: all 400ms ease;
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.16);
-    animation: animate-foto-perfil 800ms 200ms backwards ease;
-}
-
+    animation: animate-foto-perfil 800ms 200ms backwards ease; 
+    } 
 @keyframes animate-foto-perfil{
     0%{
         transform: scale(0);
@@ -42,24 +41,13 @@
     100%{
         transform: scale(1);
     }
-}
+} 
 
 .sobre-mim__picture{
+
     width: 100%;
     transition: all 400ms ease;
 }
-
-/* HOVER EFFECT*/
-.sobre-mim__picture:hover {
-    transform: scale(1.2);
-}
-
-.sobre-mim__foto--mask:hover{
-    transform: scale(1.2);
-    box-shadow: 4px 0 16px rgba(0, 0, 0, 0.16);
-    
-}
-/* END HOVER EFFECT*/
 
 .sobre-mim__info--titulo{
     margin-bottom: 16px;
@@ -67,6 +55,7 @@
 }
 
 .sobre-mim__info--para{
+    color: #f0f0f0;
     font-size: 20px;
     margin-bottom: 28px;
     animation: fade-up 650ms 600ms backwards ease;
@@ -74,7 +63,7 @@
 
 .sobre-mim__link{
     font-size: 20px;
-    color: #242424;
+    color: #0097A7;
     text-decoration: none;
     padding: 0 10px;
 }
@@ -94,7 +83,7 @@
 }
 
 .sobre-mim__link:hover{
-    color: #C51788;
+    color: #6BD3DF;
 }
 
 .sobre-mim__img--container{

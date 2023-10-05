@@ -2,13 +2,17 @@
 /* CONTATO */
 
 .contact{
-    background-color: #e4d8f1;
+    background-color: rgb(86, 171, 180);;
     display: flex;
     justify-content: center;
     width: 100%;
 }
 .contact-container{
     max-width: 90%;
+}
+
+.contact__titulo{
+  color: #2b3546;
 }
 
 .contact-content-con {
@@ -23,8 +27,9 @@
     margin-right: 30px;
   }
 .left-contact h4 {
+  color: #2b3546;
     margin-top: 1rem;
-    font-size: 2rem;
+    font-size: 2rem171f2b;
     text-transform: uppercase;
   }
   .left-contact__text {
@@ -38,6 +43,10 @@
 .contact-item p {
     margin: 0.3rem 0 !important;
     padding: 0 !important;
+  }
+
+  .contact-item span, p, i{
+    color: #171f2b;
   }
 
   .contact-icons{
@@ -63,7 +72,7 @@
     display: flex;
     align-items: center;
     color: #fff;
-    background-color: #a0a0a0;
+    background-color: #0097A7;
     cursor: pointer;
     justify-content: center;
     width: 50px;
@@ -73,10 +82,10 @@
     transition: all 0.4s ease-in-out;
   }
 .contact-icon a:hover {
-    background-color: #C51788;
+    background-color: #6BD3DF;
   }
 .contact-icon a:hover i {
-    color: #640b61;
+    color: #0097A7;
   }
 .contact-icon a i {
     display: flex;
@@ -100,7 +109,7 @@
     padding: 0.8rem 1.1rem;
     outline: none;
     border: none;
-    background-color: #ebebeb;
+    background-color: #ccebee;
     width: 100%;
     color: #000;
     resize: none;
@@ -116,7 +125,7 @@
     justify-content: center;
   }
   .submit-btn {
-    background-color: #C51788;
+    background-color: #0097A7;
     padding: 8px 20px;
     border-radius: 50px;
     border-color: transparent;
@@ -128,6 +137,6 @@
   }
 
   .submit-btn:hover{
-    background-color: #781474;
-    color: #ff8cd7;
+    background-color: #6BD3DF;
+    color: #171f2b;
 }

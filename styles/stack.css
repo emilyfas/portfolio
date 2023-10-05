@@ -1,11 +1,15 @@
-
-
-/* STACK */
-
 .linguagem__img{
     width: 100%;
     max-width: 100px;
     transition: all 300ms ease;
+}
+
+.linguagens__titulo{
+    color: #2f3b4e;
+}
+
+.texto--blue{
+    color: #007481;
 }
 
 .linguagem:hover .linguagem__img{
@@ -42,6 +46,7 @@
     transition: all 400ms;
     font-size: 20px;
     opacity: 0;
+    color: #171f2b;
 }
 
 .linguagem:hover .language__name{

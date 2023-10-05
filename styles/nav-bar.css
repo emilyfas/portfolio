@@ -24,20 +24,20 @@ nav{
 }
 
 .nav__link--anchor-primary{
-    background-color: #C51788;
+    background-color: #6BD3DF;
     padding: 8px 20px;
     border-radius: 50px;
-    color: #fff;
+    color: #171f2b;
     transition: all 300ms ease;
 }
 
 .nav__link--anchor-primary:hover{
-    background-color: #781474;
+    background-color: #0097A7;
 }
 
 .logo__pessoal{
     font-size: 24px;
     font-weight: bold;
-    color: #C51788;
+    color: #6BD3DF;
     margin: 0 12px;
 }

@@ -63,24 +63,33 @@
 }
 
 .projeto__descricao--titulo{
+    text-align: left;
+    color: #0097A7;
     font-size: 40px;
+}
+
+.projeto__descricao--subtitulo{
+    text-align: left;
+    color: #6BD3DF;
 }
 
 .projeto__descricao--para{
     margin: 16px 0;
 }
 
-.projeto__descricao--link{
+.projeto__descricao--link i{
+    color: #0097A7;
     font-size: 20px;
     margin-right: 16px;
     text-decoration: none;
 }
 
-.projeto__descricao--link:hover{
-    color: #ec6abf;
+.projeto__descricao--link i:hover{
+    color: #6BD3DF;
 }
 
-.projeto__descricao--titulo, .projeto__descricao--subtitulo, .projeto__descricao--para, .projeto__descricao--link{
+
+.projeto__descricao--para, .projeto__descricao--link{
     text-align: left;
     color: #fff;
 }
