@@ -2,7 +2,7 @@
 
 Bem-vindo(a) ao meu repositório de portfólio de programação! Este espaço é dedicado a compartilhar uma seleção dos projetos em que venho trabalhando, demonstrando minha paixão e dedicação à arte da programação.
 
-![Captura de tela portfolio](https://github.com/emilyfas/portfolio/assets/115494759/6df1e60f-8a42-4397-8afc-b1e595925952)
+![Captura de tela - Portifolio](https://github.com/emilyfas/portfolio/assets/115494759/a9449339-834c-4169-afb5-a5b8138ebf56)
 
 
 ## Acesse o Portfolio aqui
