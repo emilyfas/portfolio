@@ -42,3 +42,78 @@ Espero que aproveite o meu portfólio e que esses projetos inspirem você a expl
 </div>
 
 **Vamos codar juntos!** 🚀
+
+## ENGLISH SECTION
+
+# 🌟 Emily Fernandes - Personal Portfolio
+
+Welcome to my personal portfolio! I'm **Emily Fernandes**, a passionate and skilled developer with expertise in **Node.js**, **Java**, **C**, **C++**, **JavaScript**, and **Angular**. This repository showcases my projects, skills, and journey as a developer.
+
+---
+
+## 🧑‍💻 About Me
+
+Hi! I'm Emily, a dedicated software developer with a love for solving problems and building efficient, scalable solutions. With a strong foundation in both front-end and back-end development, I specialize in creating dynamic applications that merge functionality with seamless user experiences.
+
+---
+
+## 🔧 Skills
+
+Here are some of the key skills and technologies I work with:
+
+### Programming Languages
+- **JavaScript**
+- **Java**
+- **C**
+- **C++**
+
+### Frameworks and Libraries
+- **Node.js**
+- **Angular**
+
+### Tools and Platforms
+- **Git** for version control
+- **Docker** for containerized applications
+- **Jenkins** for CI/CD pipelines
+
+---
+
+## 🚀 Projects
+
+### 1. **Task Manager App**
+A task management application built with **Node.js** and **Angular** to help users organize and prioritize tasks.
+
+- **Tech Stack**: Node.js, Angular, MongoDB
+- **Features**:
+  - CRUD operations for tasks
+  - User authentication and role-based access
+  - Responsive design for mobile and desktop
+
+[View Project](#) | [Source Code](#)
+
+### 2. **E-commerce Platform**
+A scalable e-commerce platform built with **Java** and **Angular**.
+
+- **Tech Stack**: Java, Angular, MySQL
+- **Features**:
+  - Product catalog with search and filtering
+  - Shopping cart and payment gateway integration
+  - Admin dashboard for managing inventory
+
+[View Project](#) | [Source Code](#)
+
+### 3. **Compiler in C++**
+A simple compiler for a custom language, written in **C++** as part of an academic project.
+
+- **Tech Stack**: C++
+- **Features**:
+  - Lexical and syntax analysis
+  - Code generation and error reporting
+
+[View Project](#) | [Source Code](#)
+
+---
+
+## 📂 Repository Structure
+
+
